@@ -1,5 +1,6 @@
 
-![image](https://user-images.githubusercontent.com/66280875/86837861-e726ae80-c075-11ea-8c9a-3eb2f2603cb3.png)
+![2020-07-07_18-34-59](https://user-images.githubusercontent.com/66280875/86846197-f3fccf80-c080-11ea-900f-c3d1a0609cff.png)
+
 # Bootcamp Launchbase :rocket:
 
 ## Sobre o desafio :boom:
