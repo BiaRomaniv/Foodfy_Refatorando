@@ -25,4 +25,4 @@
 :heavy_check_mark: Node.js, Nunjucks, Express, Nodemon
 
  
-### Status do Projeto: :construction: Ainda devem ser implementadas melhorias
+### Status do Projeto: :construction: em construção - deverão ser realizadas melhorias
